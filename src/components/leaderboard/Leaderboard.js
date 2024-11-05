@@ -1,11 +1,9 @@
-import Web3 from "web3";
 import { useState, useEffect } from "react";
 import './Leaderboard.css'; // Import your CSS file
 import Vote from "../Vote/Vote.js";
 
 const Leaderboard = ({ state }) => {
     const [candidates, setCandidates] = useState([]);
-    const [selectedCandidate, setSelectedCandidate] = useState('');
 
     useEffect(() => {
         const fetchData = async () => {
