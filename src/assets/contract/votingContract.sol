@@ -19,12 +19,12 @@ contract contractVoting {
     );
 
     constructor () public {
-        addCandidate("Samarth Ghante");
+        addCandidate("Samarth akash");
         addCandidate("Kanishk Kumar");
         addCandidate("Shravya Bhandary");
         addCandidate("Gaurang Chavan");
         addCandidate("Sandeep Nailwal");
-        addCandidate("Elon Musk");
+        addCandidate("Elon Musk");      
         addCandidate("Bill Gates");
     }
 

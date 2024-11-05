@@ -40,7 +40,7 @@ const Leaderboard = ({ state }) => {
             <div className="body">
                 <div className="table">
                     <div className="table_header">
-                        <h1>Leaderboard</h1>
+                        <h1>Candidates</h1>
                     </div>
                     <div className="table_body">
                         <table>

@@ -7,7 +7,7 @@ const Footer = () => {
         <>
 
         <div className="footer">
-            <p className='made-with-love'>Made With ❤️ By <span className='team-name'>Team ChainSquadron</span></p>
+            <p className='made-with-love'>Made❤️By <span className='team-name'>Akash </span></p>
 
 
 

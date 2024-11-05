@@ -55,8 +55,9 @@ tbody tr {
 .body {
     min-height: 80vh;
     width: 100vw;
-    background: url("hero-img.jpg");
+    /* background: url("hero-img.jpg"); */
     /*background-color: black;*/
+    background: url("bgg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
