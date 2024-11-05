@@ -111,7 +111,7 @@ const Vote = ({ candidates, state }) => {
                 <button className="VoteBtn" onClick={openPopup}>VOTE</button>
                 <div className="container1">
                     <div className="popup">
-                        <img className="img-popup" />
+                        <img alt="img" className="img-popup" />
                         <h2 className="popup-h2">Please Wait!</h2>
                         <p className="popup-p">Your Transaction is in progress!</p>
                         <button type="submit" class="btn" onClick={closePopup}>Close</button>
